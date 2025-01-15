@@ -1,0 +1,1 @@
+print(f"为 Financial Industry 生成一个关键词，只要一个关键词，要求英文")
